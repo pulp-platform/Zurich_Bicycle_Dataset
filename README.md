@@ -10,8 +10,8 @@
 │    ├── GOPR0369/
 │    ├── GOPR0382/
 │    ├── GOPR0386/
-├── LICENSE.mit.md
-├── README.md
+│    ├── LICENSE.mit.md
+│    ├── README.md
 ```
 
 The *Zurich Bicycle* dataset has been derived from the open-source Zürich Bicycle dataset developed for the original [DroNet](https://github.com/uzh-rpg/rpg_public_dronet) algorithm by the [RPG](http://rpg.ifi.uzh.ch/) from the University of Zürich (UZH).
